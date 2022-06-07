@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1653926637 source:e:\jair\proyecto final\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones.h"
+	"Codigos.h"
+
+1653933000 e:\jair\proyecto final\funciones.h
+
+1653958347 e:\jair\proyecto final\codigos.h
+
+1653926637 source:e:\jair\proyectofinal\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones.h"
+	"Codigos.h"
+
+1654530499 e:\jair\proyectofinal\funciones.h
+
+1654530771 e:\jair\proyectofinal\codigos.h
+
